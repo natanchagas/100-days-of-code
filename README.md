@@ -31,6 +31,7 @@ Most of the challenges can be solved in three hours or less.
 - [Day 010](https://github.com/natanchagas/100-days-of-code/tree/main/day-010)
 - [Day 011](https://github.com/natanchagas/100-days-of-code/tree/main/day-011)
 - [Day 012](https://github.com/natanchagas/100-days-of-code/tree/main/day-012)
+- [Day 013](https://github.com/natanchagas/100-days-of-code/tree/main/day-013)
 
 ---
 
